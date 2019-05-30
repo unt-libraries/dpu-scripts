@@ -1,17 +1,20 @@
 # dpu-scripts
-Scripts developed for the Digital Projects Unit at UNT to help automate certain tasks related to digitization of materials.
+Scripts developed for the Digital Projects Unit at UNT to help automate tasks related to digitization of materials.
 
-# folder-of-the-same-name.bat
+folder-of-the-same-name.bat
+----------------
 
 Puts files into directories and names the directory after the file name.
 
-# rename_tif_by_foldername.sh
+rename_tif_by_foldername.sh
+----------------
 
-Reanames files in directories using the directory name plus a numerical extension following the pattern _01, _02, etc.
+Reanames TIFF files in directories using the directory name plus a numerical extension, following the pattern _01, _02, etc.
 
-# rename_tif_to_sequencenum.bash
+rename_tif_to_sequencenum.bash
+----------------
 
-Renames files in directories to four-character long sequence numbers (i.e., 0001, 0002, etc.)
+Renames TIFF files in directories to four-character long sequence numbers (i.e., 0001, 0002, etc.)
 
 Acknowledgements
 ----------------
