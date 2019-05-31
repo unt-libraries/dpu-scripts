@@ -21,7 +21,7 @@ Acknowledgements
 
 These scripts were developed at the UNT Libraries and have been written by a number of employees over the years including:
 
-Jeremy Moore  
+[Jeremy Moore](https://github.com/photosbyjeremy)
 
 [Mark Phillips](https://github.com/vphill)  
 
